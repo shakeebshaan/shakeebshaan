@@ -61,6 +61,56 @@
 ---
 
 <h3 align="left">
+  <img src="https://img.shields.io/badge/◉-LANGUAGE_MATRIX-00F5FF?style=flat-square&labelColor=0a0a0a" />
+</h3>
+
+<p align="center"><sub>static snapshot — 33 repos · public + private · updated 2026-04-17</sub></p>
+
+```text
+Python       ██████████████████████████░░░░  78.3%   ← backends · bots · automation
+TypeScript   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6.6%   ← web apps · trading UI · trackers
+HTML         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.3%
+CSS          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
+JavaScript   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%   ← node backends · admin panels
+SCSS         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.3%   ← shell · dockerfile · c · cython
+```
+
+---
+
+<h3 align="left">
+  <img src="https://img.shields.io/badge/◉-PROJECTS-FF00E5?style=flat-square&labelColor=0a0a0a" />
+</h3>
+
+<p align="center"><sub>snapshot of active work — most are private</sub></p>
+
+```text
+┌─────────────────────┬───────────────────────────────────────────────────────┐
+│ project             │ what it is                                            │
+├─────────────────────┼───────────────────────────────────────────────────────┤
+│ chartraiders        │ trading platform · desktop app + public websites      │
+│                     │ frontend (react/ts) · backend (node) · admin panel    │
+│                     │                                                       │
+│ crypto_h_bots       │ BTC algorithmic trading bot with hedge strategies     │
+│                     │ python · backtester · live engine · strategy lab      │
+│                     │                                                       │
+│ nyus                │ wellness tracking suite · tracker + landing pages     │
+│                     │ typescript · react · 163 commits in nyu_backend       │
+│                     │                                                       │
+│ autotask            │ browser automation CLI — drive the browser from       │
+│                     │ the terminal · python                                 │
+│                     │                                                       │
+│ speak_scribe        │ voice → text transcription app · typescript           │
+│                     │                                                       │
+│ zohh_hindi_english  │ bilingual content project · python + html             │
+│                     │                                                       │
+│ game_of_life        │ classic conway cellular automaton · python            │
+└─────────────────────┴───────────────────────────────────────────────────────┘
+```
+
+---
+
+<h3 align="left">
   <img src="https://img.shields.io/badge/◉-ACTIVITY_GRAPH-00F5FF?style=flat-square&labelColor=0a0a0a" />
 </h3>
 
