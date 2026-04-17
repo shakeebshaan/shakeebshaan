@@ -55,10 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakeebshaan&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&icon_color=FF00E5&text_color=ffffff&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeebshaan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&text_color=ffffff&langs_count=8" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeebshaan&theme=radical&hide_border=true&background=0a0a0a&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" height="165" />
 </p>
 
