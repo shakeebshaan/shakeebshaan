@@ -111,6 +111,37 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 ---
 
 <h3 align="left">
+  <img src="https://img.shields.io/badge/◉-CURRENTLY_BUILDING-00F5FF?style=flat-square&labelColor=0a0a0a" />
+</h3>
+
+```text
+> in-flight
+  [▸] high-frequency BTC strategies with risk-aware hedging
+  [▸] wellness tracking platform — onboarding, pattern detection, plans
+  [▸] desktop trading terminal — real-time charts, order mgmt, analytics
+  [▸] voice-first productivity tools — transcription, shortcuts, agents
+```
+
+---
+
+<h3 align="left">
+  <img src="https://img.shields.io/badge/◉-SNIPPETS-FF00E5?style=flat-square&labelColor=0a0a0a" />
+</h3>
+
+<p align="center"><sub>public gists · copy-paste battle-tested utilities</sub></p>
+
+<p align="center">
+  <a href="https://gist.github.com/shakeebshaan/37e11d1613edcfffc296d0709117b188"><img src="https://img.shields.io/badge/%F0%9F%93%88-RSI%20indicator%20%C2%B7%20vectorized%20pandas-00F5FF?style=for-the-badge&labelColor=0a0a0a" /></a>
+  <a href="https://gist.github.com/shakeebshaan/c65a4e20c6a5f689869ed7a4efc6b413"><img src="https://img.shields.io/badge/%F0%9F%94%90-FastAPI%20JWT%20auth%20%C2%B7%20minimal-FF00E5?style=for-the-badge&labelColor=0a0a0a" /></a>
+</p>
+<p align="center">
+  <a href="https://gist.github.com/shakeebshaan/ee7843f735c6a767ac802ada741d7615"><img src="https://img.shields.io/badge/%E2%9A%9B-useDebounce%20%C2%B7%20React%20hook-00F5FF?style=for-the-badge&labelColor=0a0a0a" /></a>
+  <a href="https://gist.github.com/shakeebshaan/26d337f88fae1e0e498e62138ef9f0e3"><img src="https://img.shields.io/badge/%F0%9F%94%81-async%20retry%20%C2%B7%20backoff%20%2B%20jitter-FF00E5?style=for-the-badge&labelColor=0a0a0a" /></a>
+</p>
+
+---
+
+<h3 align="left">
   <img src="https://img.shields.io/badge/◉-ACTIVITY_GRAPH-00F5FF?style=flat-square&labelColor=0a0a0a" />
 </h3>
 
